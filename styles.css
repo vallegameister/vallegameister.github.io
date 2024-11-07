@@ -1,0 +1,21 @@
+body{
+    background-color: wheat;
+
+}
+h1{
+    font-family: "Verdana", verdana;
+    text-align: center;
+}
+p{
+    font-family: "Verdana", verdana;
+    color: rgb(30, 96, 96);
+    
+}
+div{
+    background-color:antiquewhite;
+    width: 800px;
+    font-family: verdana;
+}
+.mycontainer{
+    display:flex;
+}
